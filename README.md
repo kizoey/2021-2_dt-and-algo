@@ -47,3 +47,42 @@ chapter | about | code | explanation
  | | | recursive_cumulative_sum | 재귀 누적합
  | | | recursive_factorial | 재귀 팩토리얼
  | | | recursive_fibonacci | 재귀 피보나치 수열
+8 | 힙 | equation_tree | 수식트리 생성
+ | | | heapq_method | heapq 라이브러리 활용
+ | | | max_heap | 최대 힙
+ | | | max_heap_sort | 최대 힙 정렬
+9 | 순차탐색알고리즘 | bfs | BFS 탐색
+ | | | dfs | DFS 탐색
+ | | | dfs_find_cc | DFS 활용 연결요소 찾기
+ | | | dfs_find_value | DFS 활용 값 찾기
+10 | 이진탐색알고리즘 | binary_search | 이진탐색알고리즘
+ | | | create_bst | 이진트리 생성
+ | | | delete_bst | 이진트리 삭제
+ | | | search_bst | 이진트리 탐색
+11 | 균형잡힌트리 | avl_balance | AVL 트리 균형도 계산
+ | | | llrb_insert | LLRB 트리 삽입
+12 | 해시탐색알고리즘 | double_hashing | 이중해싱
+ | | | hash_function | 해시함수 
+ | | | hashlib | hashlib 라이브러리 활용
+13 | 정렬알고리즘 | bubble_sort | 버블정렬
+ | | | customize_merge_sort | 합병정렬 (간단 ver)
+ | | | customize_shell_sort | 쉘정렬 (간단 ver)
+ | | | insertion_sort | 삽입정렬
+ | | | merge_sort | 합병정렬
+ | | | quick_sort | 퀵정렬
+ | | | radix_sort | 기수정렬
+ | | | selection_sort | 선택정렬
+ | | | shell_sort | 쉘정렬
+14 | 그래프알고리즘 | bfs_graph | BFS 그래프
+ | | | dfs_graph | DFS 그래프
+ | | | topological_sort | 위상정렬
+15 | 위상트리 | bellman_ford | Bellman-ford 알고리즘
+ | | | dijkstra_heapq | Dijsktra 알고리즘
+ | | | floyd_warshall | Floyd-warshall 알고리즘
+ | | | kruskal | Kruskal 알고리즘
+ | | | kruskal_disjoint | Kruskal 알고리즘 (disjoint)
+ | | | prim | Prim 알고리즘
+16 | 동적프로그래밍 | knapsack_bottomup | 배낭문제 (bottom-up)
+ | | | knapsack_topdown | 배낭문제 (top-down)
+ | | | stickcut_bottomup | 막대 자르기 (bottom-up)
+ | | | stckcut_topdown | 막대 자르기 (top-down)
